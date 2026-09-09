@@ -28,7 +28,7 @@
 
 ### 👋 About Me
 
-I'm a third-year **Computer Science & Business Systems** undergraduate at **Thapar Institute of Engineering & Technology**, working at the intersection of data, operations, and business strategy. I build things that sit *between* a spreadsheet and a boardroom — dashboards, financial models, and reporting layers that a founder or ops lead can actually act on.
+I'm a fourth-year **Computer Science & Business Systems** undergraduate at **Thapar Institute of Engineering & Technology**, working at the intersection of data, operations, and business strategy. I build things that sit *between* a spreadsheet and a boardroom — dashboards, financial models, and reporting layers that a founder or ops lead can actually act on.
 
 I gravitate toward ambiguous, process-heavy problems: the kind with no clean spec, where you have to reverse-engineer the workflow, define the metric, *and* build the tool. My work spans:
 
