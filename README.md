@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A1F44,100:B8860B&amp;height=200&amp;section=header&amp;text=Anushka%20Pandey&amp;fontSize=48&amp;fontColor=F5F0E6&amp;fontAlignY=35&amp;desc=Data%20%26%20Business%20Analyst%20%7C%20Turning%20Numbers%20into%20Decisions&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A1F44,100:B8860B&amp;height=200&amp;section=header&amp;text=Anushka%20Pandey&amp;fontSize=48&amp;fontColor=F5F0E6&amp;fontAlignY=50" width="100%"/>
+
+**Data &amp; Business Analyst · Turning Numbers into Decisions**
 
 <a href="https://www.linkedin.com/in/anushka-pandey-188624289/">
   <img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&amp;logo=linkedin&amp;logoColor=B8860B" />
