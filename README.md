@@ -50,7 +50,7 @@ I gravitate toward ambiguous, process-heavy problems: the kind with no clean spe
 | 🎪 **Head of Outreach** — Saturnalia &amp; URJA (Thapar's annual fests), 2023–Present | Secured ₹4.5L of ₹7.5L total sponsorship (60%) across 1,500 colleges &amp; 600+ brands; led a 30-member core team, 50+ cross-functional contributors, and 12–15 large-scale events end-to-end |
 | 🎤 **Executive Board Member** — TEDxTIET, Apr 2024–Present | Coordinated a 40-member team across ops, outreach, content &amp; execution; contributed to 5 houseful events |
 | 📜 **Certifications** | AI Dashboards using Power BI (Skill Nation) · Sales Forecasting, Finding Funding, Cash Flow, Profit &amp; Loss, Agile Project Management, Professional Networking (HP LIFE) · Campaign Manager 360 &amp; GA4 Deep Dive (Google Skillshop) |
-| 🎓 **Academics** | CGPA 8.07/10 · Class X: 94.5% · Class XII: 94.8% |
+
 
 ---
 
